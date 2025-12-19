@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**AyushShinde2004/AyushShinde2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ayush Shinde** — I like building **production-ready systems** rather than just demos.
 
-Here are some ideas to get you started:
+- 🔧 Working with **DevSecOps, Cloud & CI/CD automation**
+- 🧠 Building **AI-powered voice assistants**
+- ☁️ Hands-on with **AWS, Docker, Kubernetes, Jenkins, Argo CD**
+- ⚙️ Enjoy end-to-end pipelines: code → deploy → break → fix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I Use
+Python • TypeScript • Shell • AWS • Docker • Jenkins • K8s • GitHub Actions • Gemini AI
+
+### 🚀 Notable Work
+- **Selena / Desktop AI Assistant** – Voice control for media, reminders & queries  
+- **Health Loss Detection System** – OCR-based real-time game health tracking  
+- **DevSecOps & CI/CD Projects** – Jenkins, GitOps, Kubernetes pipelines  
+- **AWS Resource Monitor** – Shell-based AWS monitoring
+
+⚡ *Build. Deploy. Repeat.*
