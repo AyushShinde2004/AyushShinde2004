@@ -8,7 +8,7 @@ I'm **Ayush Shinde** — I like building **production-ready systems** rather tha
 - ⚙️ Enjoy end-to-end pipelines: code → deploy → break → fix
 
 ### 🛠️ Tech I Use
-Python • TypeScript • Shell • AWS • Docker • Jenkins • K8s • GitHub Actions • Gemini AI
+Python • TypeScript • Shell • AWS • Docker • Jenkins • K8s • GitHub Actions 
 
 ### 🚀 Notable Work
 - **Selena / Desktop AI Assistant** – Voice control for media, reminders & queries  
